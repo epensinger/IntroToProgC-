@@ -1,4 +1,5 @@
-// Online C++ compiler to run C++ program online
+/* This program reads two integers from the user and prints their sum */
+
 #include <iostream>
 using namespace std;
 
