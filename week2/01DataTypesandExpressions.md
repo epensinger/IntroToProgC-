@@ -28,9 +28,11 @@
 * Exceptions
 
 ## Data Types in C++
-C++ is strongly typed - each data must have a type.
-Data is stored either as variables or constants
-constants may be either built into the language
+* C++ is strongly typed - each data must have a type.
+* Data is stored either as variables or constants
+* constants may be either built into the language (c++ literals) or user defined (ex: const int max = 5;)
+* once the const is set, the value can't change.
+
 ### int
   * Kind of data - integers numbers
   * inner representation - each int uses 4 bytes (32 bits)
@@ -46,6 +48,29 @@ for negatives, the zeros become 1
 11111111 11111111 11111111 11111010
 
 ```
+
+#### arithmetic Operators
+* Use values and operators to make expressions that represent a value.
+* Arithmetic operators work with integers
+* Ex. X + 2;
+* can be printed out or assigned to variables
+```
++
+-
+*
+```
+##### Divide is different
+* 13 divided by 5 is 2 remainder 3.
+* Div and Mod give us the 2 and the 3.
+* 13 div 5 = 2
+* 13 mod 5 = 3
+* This way integers stay integers
+```
+13/5
+13%5
+```
+equals is the assignment operator, it stores what's on the right in the variable to the left.
+
 
 ### float
 ### double
