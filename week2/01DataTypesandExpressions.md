@@ -71,6 +71,21 @@ for negatives, the zeros become 1
 ```
 equals is the assignment operator, it stores what's on the right in the variable to the left.
 
+### Days of the Week Code Demonstration
+
+### Knowledge Check:
+1.  Calculate 15%4 and 12/4.  Are these values the same?  Yes or no.
+ * (They are both 3).
+2.  Examine this code:
+```
+void swap(int a, int b)
+   Int c = a * b;
+   Int d = a + b - 3;
+   Int result = c + d * 2
+   
+If a = 5 and b = 4, what is value of result variable?
+Choices: 32, 22, 26, 16
+Answer: 32
 
 ### float
 ### double
