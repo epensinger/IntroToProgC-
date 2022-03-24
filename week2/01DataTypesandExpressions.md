@@ -86,6 +86,7 @@ void swap(int a, int b)
 If a = 5 and b = 4, what is value of result variable?
 Choices: 32, 22, 26, 16
 Answer: 32
+```
 
 ### float
 ### double
